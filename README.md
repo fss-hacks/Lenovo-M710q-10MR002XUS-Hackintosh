@@ -13,3 +13,4 @@ Everything except for iServices. As of right now, DO NOT sign into your Apple ID
 Instructions:
 Download the EFI .zip file and prepare an OpenCore USB boot drive with your Mac OS installer files.
 The EFI comes without SMBIOS info in it so you will need to edit the config.plist with ProperTree or OPCAT etc and input a generated serial that matches MacMini8,1.
+
